@@ -1,0 +1,12 @@
+{
+ "employee":[
+    {
+        "name":"Alex",
+        "email":"Alex12@gmail.com"
+       }, 
+       {
+    "name":"Ambani",
+    "email":"Ambani@gmail.com"
+    }   
+]
+}

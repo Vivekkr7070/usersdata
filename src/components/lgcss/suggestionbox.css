@@ -1,0 +1,16 @@
+.suggestion{
+    margin-left: 25vh;
+}
+.container{
+    border-radius: 8px;
+    background-color: rgb(128, 108, 108);
+}
+#story{
+    border-radius: 10px;
+    background-color: rgb(182, 178, 172);
+
+}
+.imageup{
+    max-width: auto;
+    min-width: auto;
+}

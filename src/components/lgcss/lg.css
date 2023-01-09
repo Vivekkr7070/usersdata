@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(154, 142, 142);
+}
+.lgcontainer {
+	background-color: rgb(42, 37, 37);
+	border-radius: 15px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(207, 129, 129, 0.22);
+	position: center;
+	width: 76x;
+	max-width: 80%;
+	min-height: 250px;
+    align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+	border:#61dafb;
+    margin-left: 8%;
+}
+.formcontainer{
+    max-width: 50%;
+    margin-top: 10px;
+    margin-left: 27%;
+    border-radius: 20px;
+    background-color: rgb(32, 29, 29);
+    border: rgb(107, 104, 104);
+}
+.welcome{
+    margin-top:50px;
+    font-family: cursive;
+}
+.exampleFormControlInput1{
+    border-radius: 25px;
+}

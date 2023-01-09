@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+/* login css */
+
+
+
+
+
+/* body {
+	background: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+	margin: -20px 0 50px;
+}
+
+
+
+.lgcontainer {
+	background-color: #fff;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: center;
+	overflow: hidden;
+	width: 768px;
+	max-width: 100%;
+	min-height: 480px;
+    align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	text-align: center;
+}
+
+/* .formcontainer{
+	position:center;
+	top: 0;
+	/* height: 50%; */
+  /* width: 50%;
+  align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 40px;
+	text-align: center; */
+/* } */ */
+
+.navbar{
+	border-radius: 8% 8% 8% 8%;
+	box-sizing: border-box;
+}
+
+.suggestionbox{
+	margin-left: 33%;
+	height: 300px;
+	width: 300px;
+	border:2px solid rebeccapurple;
+	text-align: center;
+}
+
+
+
+
+
